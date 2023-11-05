@@ -1,4 +1,4 @@
-function skillmember() {
+function skillmember(){
     var member = document.getElementById("member");
     var skill = document.getElementById("skill");
     var project = document.getElementById("project");
@@ -11,8 +11,8 @@ function skillmember() {
     skill.style.display = "none";
     project.style.display = "none";
     contact.style.display = "none";
-    member1.style.color = "#fff";
-    skill1.style.color = "#000";
-    project1.style.color = "#000";
-    contact1.style.color = "#000";
-}  
+    member1.style.color = "white";
+    skill1.style.color = "black";
+    project1.style.color = "black";
+    contact1.style.color = "black";
+}
